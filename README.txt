@@ -1,1 +1,0 @@
-Reduxir final production version.
